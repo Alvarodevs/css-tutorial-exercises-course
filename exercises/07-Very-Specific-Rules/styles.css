@@ -1,4 +1,12 @@
-/** Insert your code here **/
+body #id2 li {
+	color: red;
+}
+body ol .olli {
+	background-color: green;
+}
+body table tr:nth-child(odd) {
+	background-color: yellow;
+}
 
 /*********** READ ONLY BLOCK ******
 You CAN NOT UPDATE anything from here on,

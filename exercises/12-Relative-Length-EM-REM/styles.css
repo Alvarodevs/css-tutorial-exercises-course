@@ -1,8 +1,16 @@
 #my-first-div {
 	font-size: 15px;
+	border: 1px black solid;
 }
 #the-second-one {
 	font-size: 25px;
+	border: 1px black solid;
 }
 
 /* YOUR CODE BELOW THIS LINE */
+h2 {
+	font-size: 0.8em;
+}
+h3 {
+	font-size: 0.8rem;
+}
